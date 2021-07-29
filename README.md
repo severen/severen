@@ -10,8 +10,9 @@ My interests include:
 + Type theory
 + Anything mathematics!
 
-As an avid user, developer, and supporter of free and open source software, I endeavour to release as many of
-my personal projects as possible under free and open source licences.
+As an avid user, developer, and supporter of [free](https://www.gnu.org/philosophy/free-sw.en.html)
+and [open source](https://opensource.org/osd) software, I endeavour to release as many of my personal
+projects as possible under such licences.
 
 You can contact me via email at `severen.redwood@gmail.com`, on Discord at `severen#1442`, or on Twitter at
 [@severenr_](https://twitter.com/severenr_/).
