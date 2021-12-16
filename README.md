@@ -4,11 +4,9 @@ I am a second year BSc student majoring in mathematics and computer science at t
 [University of Canterbury](https://www.canterbury.ac.nz/).
 
 My interests include:
-+ Systems programming
-+ Functional programming
 + Programming language theory, design, and implementation
-+ Type theory
-+ Anything mathematics!
++ Logic, type theory, and category theory
++ Abstract algebra
 
 As an avid user, developer, and supporter of [free](https://www.gnu.org/philosophy/free-sw.en.html)
 and [open source](https://opensource.org/osd) software, I endeavour to release as many of my personal
