@@ -12,7 +12,7 @@ I am an avid user, developer, and supporter of [free](https://www.gnu.org/philos
 and [open source](https://opensource.org/osd) software, and as such endeavour to release as many of my
 projects as possible under such licences.
 
-You can contact me via email at `severen.redwood@gmail.com`, on Discord at `severen#1442`, or on Twitter at
+You can contact me via email at `me@severen.dev`, on Discord at `severen#1442`, or on Twitter at
 [@severenr_](https://twitter.com/severenr_/).
 
 <!-- TODO: Add this when I actually get my website up and running -->
