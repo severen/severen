@@ -1,6 +1,6 @@
 ### Hi, I'm Severen!
 
-I am a third year BSc student majoring in mathematics and computer science at the
+I am a mathematics and computer science graduate from the
 [University of Canterbury](https://www.canterbury.ac.nz/).
 
 My interests include:
@@ -12,8 +12,7 @@ I am an avid user, developer, and supporter of [free](https://www.gnu.org/philos
 and [open source](https://opensource.org/osd) software, and as such endeavour to release as many of my
 projects as possible under such licences.
 
-You can contact me via email at `me@severen.dev`, on Discord at `severen#1442`, or on Twitter at
-[@severenr_](https://twitter.com/severenr_/).
+You can contact me via email at `sev@severen.dev` or on Discord at `severen#1442`.
 
 <!-- TODO: Add this when I actually get my website up and running -->
 <!-- Everything about me and my projects are also available on [my website](https://example.org/). -->
