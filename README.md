@@ -14,7 +14,7 @@ I am an avid user, developer, and supporter of
 source](https://opensource.org/osd) software, and as such endeavour to release
 as many of my projects as possible under such licences.
 
-You can contact me via email at `sev@severen.dev` or on Discord at `severen#1442`.
+You can contact me via email at `sev@severen.dev` or on Discord at `severen`.
 
 <!-- TODO: Add this when I actually get my website up and running -->
 <!-- Everything about me and my projects are also available on [my website](https://example.org/). -->
