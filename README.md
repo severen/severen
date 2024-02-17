@@ -1,16 +1,18 @@
 ### Hi, I'm Severen!
 
-I am a mathematics and computer science graduate from the
-[University of Canterbury](https://www.canterbury.ac.nz/).
+I am a systems developer at [SiteHost](https://sitehost.nz/) and a mathematics
+and computer science graduate from the [University of
+Canterbury](https://www.canterbury.ac.nz/).
 
 My interests include:
 + Programming language theory, design, and implementation
 + Logic, type theory, and category theory
 + Abstract algebra
 
-I am an avid user, developer, and supporter of [free](https://www.gnu.org/philosophy/free-sw.en.html)
-and [open source](https://opensource.org/osd) software, and as such endeavour to release as many of my
-projects as possible under such licences.
+I am an avid user, developer, and supporter of
+[free](https://www.gnu.org/philosophy/free-sw.en.html) and [open
+source](https://opensource.org/osd) software, and as such endeavour to release
+as many of my projects as possible under such licences.
 
 You can contact me via email at `sev@severen.dev` or on Discord at `severen#1442`.
 
