@@ -15,7 +15,8 @@ source](https://opensource.org/osd) software, and as such endeavour to release
 as many of my projects as possible under such licences.
 
 Want to chat? Send an email to [`sev@severen.dev`](mailto:severen@severen.dev),
-or if messaging is more your speed, you can find me under `@severen:mtrx.nz` on
+or if messaging is more your speed, you can find me under
+[`@severenr:matrix.org`](https://matrix.to/#/@severenr:matrix.org) on
 [Matrix](https://matrix.org/) and
 [`severen`](https://discord.com/users/137171059924402176) on Discord.
 
