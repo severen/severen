@@ -14,7 +14,10 @@ I am an avid user, developer, and supporter of
 source](https://opensource.org/osd) software, and as such endeavour to release
 as many of my projects as possible under such licences.
 
-You can contact me via email at `sev@severen.dev` or on Discord at `severen`.
+Want to chat? Send an email to [`sev@severen.dev`](mailto:severen@severen.dev),
+or if messaging is more your speed, you can find me under `@severen:mtrx.nz` on
+[Matrix](https://matrix.org/) and
+[`severen`](https://discord.com/users/137171059924402176) on Discord.
 
 <!-- TODO: Add this when I actually get my website up and running -->
 <!-- Everything about me and my projects are also available on [my website](https://example.org/). -->
